@@ -1,0 +1,8 @@
+[package]
+name = "ulferno/zoneplus"
+description = "Port of ZonePlus by ForeverHD for use in Check it Containment"
+version = "3.2.0"
+license = "MIT"
+authors = []
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
